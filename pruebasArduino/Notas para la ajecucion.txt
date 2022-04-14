@@ -1,0 +1,13 @@
+Notas para la ajecucion
+0.Instalar el driver.
+1.Abrir el driver del simulador serial.
+2.Emparejarlos en el com3 y com4, se agrega el par de puertos 
+3.En arduino instalar la libreria del separador.
+4.En proteus dar el hex al arduino.
+5.Poner en com 3 el puerto serial.
+6.Comenzar el programa en Python y luego el proyecto en proteus.
+
+
+
+
+
